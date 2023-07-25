@@ -1,2 +1,3 @@
 # otus-cpp
-Otus CPP Course 
+
+Repository for Otus CPP Basic homeworks.
