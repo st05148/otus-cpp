@@ -1,0 +1,6 @@
+*.exe
+*.sln
+*.filters
+*.cmake
+*.vcxproj
+build/
