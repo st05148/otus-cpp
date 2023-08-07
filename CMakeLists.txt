@@ -15,7 +15,7 @@ target_include_directories( theGame PRIVATE
 	${CMAKE_SOURCE_DIR}/menu/
 )
 
-set_target_properties( game PROPERTIES
+set_target_properties( theGame PROPERTIES
 	CXX_STANDARD 17
 	CXX_STANDARD_REQUIRED ON
 )
